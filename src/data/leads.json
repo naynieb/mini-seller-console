@@ -1,0 +1,137 @@
+[
+  {
+    "id": "L001",
+    "name": "John Smith",
+    "company": "Acme Corporation",
+    "email": "john.smith@acme.com",
+    "source": "Website",
+    "score": 85,
+    "status": "New"
+  },
+  {
+    "id": "L002",
+    "name": "Sarah Johnson",
+    "company": "Johnson & Partners",
+    "email": "sarah.j@johnsonpartners.com",
+    "source": "LinkedIn",
+    "score": 92,
+    "status": "Contacted"
+  },
+  {
+    "id": "L003",
+    "name": "Michael Davis",
+    "company": "Davis Technologies",
+    "email": "michael@davistech.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "Qualified"
+  },
+  {
+    "id": "L004",
+    "name": "Emma Wilson",
+    "company": "Wilson Enterprises",
+    "email": "emma@wilsonent.com",
+    "source": "Trade Show",
+    "score": 65,
+    "status": "New"
+  },
+  {
+    "id": "L005",
+    "name": "Robert Brown",
+    "company": "Brown Industries",
+    "email": "robert.brown@brownindustries.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "L006",
+    "name": "Lisa Chen",
+    "company": "Chen Global",
+    "email": "lisa.chen@chenglobal.com",
+    "source": "Email Campaign",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "L007",
+    "name": "David Miller",
+    "company": "Miller Consulting",
+    "email": "david@millerconsulting.com",
+    "source": "Webinar",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": "L008",
+    "name": "Jennifer Lee",
+    "company": "Lee Innovations",
+    "email": "jennifer@leeinnovations.com",
+    "source": "LinkedIn",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "L009",
+    "name": "Daniel Park",
+    "company": "Park Solutions",
+    "email": "daniel@parksolutions.com",
+    "source": "Referral",
+    "score": 95,
+    "status": "Contacted"
+  },
+  {
+    "id": "L010",
+    "name": "Sophia Martinez",
+    "company": "Martinez & Co",
+    "email": "sophia@martinezco.com",
+    "source": "Website",
+    "score": 82,
+    "status": "New"
+  },
+  {
+    "id": "L011",
+    "name": "James Wilson",
+    "company": "Wilson Tech",
+    "email": "james@wilsontech.com",
+    "source": "Trade Show",
+    "score": 76,
+    "status": "Qualified"
+  },
+  {
+    "id": "L012",
+    "name": "Olivia Taylor",
+    "company": "Taylor Industries",
+    "email": "olivia@taylorindustries.com",
+    "source": "Email Campaign",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": "L013",
+    "name": "William Anderson",
+    "company": "Anderson Group",
+    "email": "william@andersongroup.com",
+    "source": "Webinar",
+    "score": 77,
+    "status": "Contacted"
+  },
+  {
+    "id": "L014",
+    "name": "Ava Thomas",
+    "company": "Thomas Solutions",
+    "email": "ava@thomassolutions.com",
+    "source": "Website",
+    "score": 81,
+    "status": "New"
+  },
+  {
+    "id": "L015",
+    "name": "Ethan Robinson",
+    "company": "Robinson Enterprises",
+    "email": "ethan@robinsonent.com",
+    "source": "LinkedIn",
+    "score": 68,
+    "status": "Qualified"
+  }
+]
